@@ -26,3 +26,6 @@
 - The time to crack a password grows exponentially with its length and the size of the character set.
 - Brute force tools take longer to crack complex passwords.
 - Dictionary attacks are ineffective when you don’t use real words.
+
+## Results:
+The screenshots of the passwords tried and its analaysis are stored in Task6.pdf file and have been added to this repository.
